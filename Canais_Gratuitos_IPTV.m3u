@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Canais Gratuitos",Pluto TV - Filmes
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3df8f179fd47001f9e1342/master.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",Pluto TV - Notícias
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6f446f9c7de8001cdb48b3/master.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",TV Brasil
+https://playout.cdn.srv.globo/TVBRASIL/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",TV Câmara
+https://stream3.camara.leg.br/tv1/manifest.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",TV Senado
+https://stream3.camara.leg.br/tv2/manifest.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",TV Justiça
+https://streaming.stf.jus.br/live/STF/smil:STF.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",TV Cultura
+https://streaming.cultura.com.br:443/live/cultura/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",Canal Futura
+https://playout.cdn.srv.globo/FUTURA/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",Record News
+https://stream3.recordnews.tv/recordnews/recordnews/playlist.m3u8
+
+#EXTINF:-1 group-title="Canais Gratuitos",Canal Empreender
+https://cdn.jmvstream.com/live/canalempreender/canalempreender/playlist.m3u8
